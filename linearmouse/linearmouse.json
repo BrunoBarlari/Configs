@@ -1,0 +1,64 @@
+{
+  "$schema" : "https:\/\/schema.linearmouse.app\/0.10.0-beta.2",
+  "schemes" : [
+    {
+      "if" : {
+        "device" : {
+          "vendorID" : "0x46d",
+          "productID" : "0xc092",
+          "serialNumber" : "207437835631",
+          "productName" : "G203 LIGHTSYNC Gaming Mouse",
+          "category" : "mouse"
+        }
+      },
+      "pointer" : {
+        "acceleration" : 2,
+        "speed" : 0.0689655172413792768,
+        "disableAcceleration" : false
+      },
+      "buttons" : {
+        "universalBackForward" : true
+      }
+    },
+    {
+      "if" : {
+        "app" : "com.apple.Safari",
+        "device" : {
+          "category" : "mouse",
+          "productName" : "G203 LIGHTSYNC Gaming Mouse",
+          "vendorID" : "0x46d",
+          "productID" : "0xc092",
+          "serialNumber" : "207437835631"
+        }
+      },
+      "scrolling" : {
+        "acceleration" : {
+          "vertical" : 1
+        },
+        "distance" : {
+          "vertical" : 2
+        },
+        "speed" : {
+          "vertical" : 0
+        }
+      }
+    },
+    {
+      "if" : {
+        "device" : {
+          "vendorID" : "0x46d",
+          "serialNumber" : "207437835631",
+          "productID" : "0xc092",
+          "category" : "mouse",
+          "productName" : "G203 LIGHTSYNC Gaming Mouse"
+        },
+        "app" : "com.lujjjh.LinearMouse"
+      },
+      "scrolling" : {
+        "acceleration" : {
+          "vertical" : 1
+        }
+      }
+    }
+  ]
+}

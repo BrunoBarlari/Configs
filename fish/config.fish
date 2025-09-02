@@ -74,5 +74,3 @@ atuin init fish | source
 #FZF
 eval "$(fzf --fish)"
 
-
-

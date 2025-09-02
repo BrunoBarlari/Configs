@@ -40,20 +40,20 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.12.4-final",
+          "raw": "3.13.1-final",
           "major": 3,
-          "minor": 12,
-          "patch": 4,
+          "minor": 13,
+          "patch": 1,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.12.4-final"
+          "version": "3.13.1-final"
         },
-        "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
-        "fileHash": "ec23803634d7b4c8a65bdfe7540ce3f45a58df412162525edddc11dbe2f610ca5d79827d453d73906ac312816eae2da60adac701e7bc68eebc15a665bdfe1b60"
+        "sysPrefix": "/opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13",
+        "fileHash": "7f8de5f2af0124400841cba31535e2cbd1cabab313d0bde25ec9cd23fba0b0bf893c0b6d8b38228657113a60ed8fcad138b7aa700f86b697cca5f5daa50166f8"
       },
-      "expiry": 1720991325873
+      "expiry": 1739157463815
     },
     "/Users/brunobarlari/opt/anaconda3/bin/python3.v3": {
       "data": {
@@ -115,20 +115,20 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.11.9-final",
+          "raw": "3.11.11-final",
           "major": 3,
           "minor": 11,
-          "patch": 9,
+          "patch": 11,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.11.9-final"
+          "version": "3.11.11-final"
         },
         "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
-        "fileHash": "d2b134f7ba60affd50298c86c0f9efa33263150aabe1c95b8b1e7509dcaf1441899804b03a8a9c1147a66dc476c165bef7d1945462995307a2bb57d7d849baca"
+        "fileHash": "1f3a26154e295eabf79d15768029c2a3c20b0ea198b964d130cbab452f4352b2f3ba722503ac2a6ddbd5a18e75c464d8765ca8b010bdd4e7d772100d1a89834a"
       },
-      "expiry": 1720991325871
+      "expiry": 1739157463929
     },
     "/Users/brunobarlari/opt/anaconda3/bin/python.v3": {
       "data": {
@@ -158,51 +158,51 @@
     "INTERPRETERS_CACHE_v3_CurrentPathService": [
       {
         "architecture": 3,
-        "path": "/opt/homebrew/opt/python@3.12/bin/python3.12",
+        "path": "/opt/homebrew/opt/python@3.13/bin/python3.13",
         "version": {
           "options": {
             "loose": false,
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.12.4-final",
+          "raw": "3.13.1-final",
           "major": 3,
-          "minor": 12,
-          "patch": 4,
+          "minor": 13,
+          "patch": 1,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.12.4-final"
+          "version": "3.13.1-final"
         },
-        "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
-        "fileHash": "1926d0b30bab0cf111fce0e24c5df7e9223a0865aea26f63182ef110975147dc359e16b9fb40772352d67a22489239874af7f8958187a67acc3d6f7afb3631a6",
+        "sysPrefix": "/opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13",
+        "fileHash": "03d239be4f7ff5b0f7b436bb3d071bd84140368f9fb6c484558cc68b74fbcb110396d690783b0fadf68863149eb6ed4e6ab79797ea3d52fd4dc78f4aab554aeb",
         "type": "Unknown"
       }
     ],
     "preferredGlobalPyInterpreter": {
       "architecture": 3,
-      "path": "/opt/homebrew/opt/python@3.12/bin/python3.12",
+      "path": "/opt/homebrew/opt/python@3.13/bin/python3.13",
       "version": {
         "options": {
           "loose": false,
           "includePrerelease": false
         },
         "loose": false,
-        "raw": "3.12.4-final",
+        "raw": "3.13.1-final",
         "major": 3,
-        "minor": 12,
-        "patch": 4,
+        "minor": 13,
+        "patch": 1,
         "prerelease": [
           "final"
         ],
         "build": [],
-        "version": "3.12.4-final"
+        "version": "3.13.1-final"
       },
-      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
-      "fileHash": "1926d0b30bab0cf111fce0e24c5df7e9223a0865aea26f63182ef110975147dc359e16b9fb40772352d67a22489239874af7f8958187a67acc3d6f7afb3631a6",
+      "sysPrefix": "/opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13",
+      "fileHash": "03d239be4f7ff5b0f7b436bb3d071bd84140368f9fb6c484558cc68b74fbcb110396d690783b0fadf68863149eb6ed4e6ab79797ea3d52fd4dc78f4aab554aeb",
       "type": "Unknown",
-      "displayName": "Python 3.12.4 64-bit"
+      "displayName": "Python 3.13.1 64-bit"
     },
     "/Users/brunobarlari/opt/anaconda3/bin/python.interpreter.Details.v7": {
       "data": {
@@ -341,9 +341,9 @@
           "version": "3.9.6-final"
         },
         "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9",
-        "fileHash": "4fb1e1da4c9db44812a30b634ce4cbfbe387f571544495a620d4c5a9d0ef18424ee23b147f145519fb52891498075480e02a5e09385828fe0fe947e95f3e9d98"
+        "fileHash": "fb512c7752a8687265c554441759920adad77dbc70c2574b2ce70a37797889745e09ade08fe77a83a701912e851a064433631a357a812bdf48e2662961622628"
       },
-      "expiry": 1720991325973
+      "expiry": 1739157463944
     },
     "/usr/local/bin/python3.11.v3": {
       "data": {
@@ -368,7 +368,7 @@
         "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.11",
         "fileHash": "c871e6776f63d0c035af6fc2a55e2d8fccff8bbdc9b09fd1ca9a79473c7b475b9338e3645077f0f9b822c17e7310039f3fa7c500c56bc3f198357c61dc7f995d"
       },
-      "expiry": 1720991326112
+      "expiry": 1739157464078
     },
     "/usr/local/bin/python3.v3": {
       "data": {
@@ -393,7 +393,7 @@
         "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.11",
         "fileHash": "4f3dbe005af1c27a7e9397dc14fe5798886c82d490bf1e7a333039f0e58e0965798f9e44f19456524789d541978834fdd4e53f82605a0f55f2854e87c7db0a15"
       },
-      "expiry": 1720991326113
+      "expiry": 1739157464079
     },
     "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3.v3": {
       "data": {
@@ -455,18 +455,18 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.12.4-final",
+          "raw": "3.13.1-final",
           "major": 3,
-          "minor": 12,
-          "patch": 4,
+          "minor": 13,
+          "patch": 1,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.12.4-final"
+          "version": "3.13.1-final"
         },
-        "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
-        "fileHash": "ec23803634d7b4c8a65bdfe7540ce3f45a58df412162525edddc11dbe2f610ca5d79827d453d73906ac312816eae2da60adac701e7bc68eebc15a665bdfe1b60",
+        "sysPrefix": "/opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13",
+        "fileHash": "7f8de5f2af0124400841cba31535e2cbd1cabab313d0bde25ec9cd23fba0b0bf893c0b6d8b38228657113a60ed8fcad138b7aa700f86b697cca5f5daa50166f8",
         "type": "Unknown"
       },
       {
@@ -478,18 +478,18 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.11.9-final",
+          "raw": "3.11.11-final",
           "major": 3,
           "minor": 11,
-          "patch": 9,
+          "patch": 11,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.11.9-final"
+          "version": "3.11.11-final"
         },
         "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
-        "fileHash": "d2b134f7ba60affd50298c86c0f9efa33263150aabe1c95b8b1e7509dcaf1441899804b03a8a9c1147a66dc476c165bef7d1945462995307a2bb57d7d849baca",
+        "fileHash": "1f3a26154e295eabf79d15768029c2a3c20b0ea198b964d130cbab452f4352b2f3ba722503ac2a6ddbd5a18e75c464d8765ca8b010bdd4e7d772100d1a89834a",
         "type": "Unknown"
       },
       {
@@ -501,18 +501,41 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.12.4-final",
+          "raw": "3.12.8-final",
           "major": 3,
           "minor": 12,
-          "patch": 4,
+          "patch": 8,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.12.4-final"
+          "version": "3.12.8-final"
         },
         "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
-        "fileHash": "fc9c047f5f70b5067b383721ba56f2efd5d837aeb1244c2ed3fa6ea0136f8dc73b32845a75791c4a7c932bde68573834564c6b47e4523a4ea946f50ab2136e57",
+        "fileHash": "c8b1039702e74dc043d885b18ccee02e20b9021471dbd6a3e156d1ce45b0611e89600ba8c519ed1b16ac51e0fb962f03074a5b460cb652e823afeb43f383a5c6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.13",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.13.1-final",
+          "major": 3,
+          "minor": 13,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.13.1-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13",
+        "fileHash": "f49664d0aad1110d4bc09dbe0441ddcaf96c3f02c429d9fd62a951d2c664a5ccc809d4bdb900a00bd49960203b85394eaab4c7a2879fec88982ee8bcd1feb555",
         "type": "Unknown"
       },
       {
@@ -581,7 +604,7 @@
           "version": "3.9.6-final"
         },
         "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9",
-        "fileHash": "4fb1e1da4c9db44812a30b634ce4cbfbe387f571544495a620d4c5a9d0ef18424ee23b147f145519fb52891498075480e02a5e09385828fe0fe947e95f3e9d98",
+        "fileHash": "fb512c7752a8687265c554441759920adad77dbc70c2574b2ce70a37797889745e09ade08fe77a83a701912e851a064433631a357a812bdf48e2662961622628",
         "type": "Unknown"
       },
       {
@@ -650,7 +673,7 @@
           "version": "3.9.6-final"
         },
         "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9",
-        "fileHash": "4fb1e1da4c9db44812a30b634ce4cbfbe387f571544495a620d4c5a9d0ef18424ee23b147f145519fb52891498075480e02a5e09385828fe0fe947e95f3e9d98",
+        "fileHash": "fb512c7752a8687265c554441759920adad77dbc70c2574b2ce70a37797889745e09ade08fe77a83a701912e851a064433631a357a812bdf48e2662961622628",
         "type": "Unknown"
       }
     ],
@@ -696,14 +719,14 @@
         "displayName": "Python 3.11.1 64-bit",
         "hash": "4f3dbe005af1c27a7e9397dc14fe5798886c82d490bf1e7a333039f0e58e0965798f9e44f19456524789d541978834fdd4e53f82605a0f55f2854e87c7db0a15-fd6f48c1babf471bf3e1fcc92f56885a"
       },
-      "expiry": 1720991664774
+      "expiry": 1739157464959
     },
     "/opt/homebrew/bin/python3.interpreter.displayName.v7": {
       "data": {
-        "displayName": "Python 3.12.4 64-bit",
-        "hash": "ec23803634d7b4c8a65bdfe7540ce3f45a58df412162525edddc11dbe2f610ca5d79827d453d73906ac312816eae2da60adac701e7bc68eebc15a665bdfe1b60-90aaeac42519fd8f5585afddd3f708b0"
+        "displayName": "Python 3.13.1 64-bit",
+        "hash": "7f8de5f2af0124400841cba31535e2cbd1cabab313d0bde25ec9cd23fba0b0bf893c0b6d8b38228657113a60ed8fcad138b7aa700f86b697cca5f5daa50166f8-03e0eeacfd9b95ef92abe4f4759b9c9c"
       },
-      "expiry": 1720991664776
+      "expiry": 1739157464950
     },
     "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3.interpreter.displayName.v7": {
       "data": {
@@ -722,33 +745,33 @@
     "/usr/bin/python3.interpreter.displayName.v7": {
       "data": {
         "displayName": "Python 3.9.6 64-bit",
-        "hash": "4fb1e1da4c9db44812a30b634ce4cbfbe387f571544495a620d4c5a9d0ef18424ee23b147f145519fb52891498075480e02a5e09385828fe0fe947e95f3e9d98-ec22c4bbc8b13d1b29456d131f3d1e08"
+        "hash": "fb512c7752a8687265c554441759920adad77dbc70c2574b2ce70a37797889745e09ade08fe77a83a701912e851a064433631a357a812bdf48e2662961622628-79982c7bdcb951c2df401b98c4e6686d"
       },
-      "expiry": 1720991664780
+      "expiry": 1739157464964
     },
     "InterpreterAutoSeletionRule-system": {
       "architecture": 3,
-      "path": "/opt/homebrew/opt/python@3.12/bin/python3.12",
+      "path": "/opt/homebrew/opt/python@3.13/bin/python3.13",
       "version": {
         "options": {
           "loose": false,
           "includePrerelease": false
         },
         "loose": false,
-        "raw": "3.12.4-final",
+        "raw": "3.13.1-final",
         "major": 3,
-        "minor": 12,
-        "patch": 4,
+        "minor": 13,
+        "patch": 1,
         "prerelease": [
           "final"
         ],
         "build": [],
-        "version": "3.12.4-final"
+        "version": "3.13.1-final"
       },
-      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
-      "fileHash": "1926d0b30bab0cf111fce0e24c5df7e9223a0865aea26f63182ef110975147dc359e16b9fb40772352d67a22489239874af7f8958187a67acc3d6f7afb3631a6",
+      "sysPrefix": "/opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13",
+      "fileHash": "03d239be4f7ff5b0f7b436bb3d071bd84140368f9fb6c484558cc68b74fbcb110396d690783b0fadf68863149eb6ed4e6ab79797ea3d52fd4dc78f4aab554aeb",
       "type": "Unknown",
-      "displayName": "Python 3.12.4 64-bit"
+      "displayName": "Python 3.13.1 64-bit"
     },
     "/Users/brunobarlari/Dev/anaconda3/bin/python.interpreter.Details.v7": {
       "data": {
@@ -844,11 +867,11 @@
           "displayName": "Python 3.11.1 64-bit"
         }
       },
-      "expiry": 1720991664791
+      "expiry": 1739157464988
     },
     "/opt/homebrew/bin/python3.interpreter.Details.v7": {
       "data": {
-        "fileHash": "ec23803634d7b4c8a65bdfe7540ce3f45a58df412162525edddc11dbe2f610ca5d79827d453d73906ac312816eae2da60adac701e7bc68eebc15a665bdfe1b60",
+        "fileHash": "7f8de5f2af0124400841cba31535e2cbd1cabab313d0bde25ec9cd23fba0b0bf893c0b6d8b38228657113a60ed8fcad138b7aa700f86b697cca5f5daa50166f8",
         "info": {
           "architecture": 3,
           "path": "/opt/homebrew/bin/python3",
@@ -858,23 +881,23 @@
               "includePrerelease": false
             },
             "loose": false,
-            "raw": "3.12.4-final",
+            "raw": "3.13.1-final",
             "major": 3,
-            "minor": 12,
-            "patch": 4,
+            "minor": 13,
+            "patch": 1,
             "prerelease": [
               "final"
             ],
             "build": [],
-            "version": "3.12.4-final"
+            "version": "3.13.1-final"
           },
-          "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
-          "fileHash": "ec23803634d7b4c8a65bdfe7540ce3f45a58df412162525edddc11dbe2f610ca5d79827d453d73906ac312816eae2da60adac701e7bc68eebc15a665bdfe1b60",
+          "sysPrefix": "/opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13",
+          "fileHash": "7f8de5f2af0124400841cba31535e2cbd1cabab313d0bde25ec9cd23fba0b0bf893c0b6d8b38228657113a60ed8fcad138b7aa700f86b697cca5f5daa50166f8",
           "type": "Unknown",
-          "displayName": "Python 3.12.4 64-bit"
+          "displayName": "Python 3.13.1 64-bit"
         }
       },
-      "expiry": 1720991664797
+      "expiry": 1739157464971
     },
     "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3.interpreter.Details.v7": {
       "data": {
@@ -941,7 +964,7 @@
     },
     "/usr/bin/python3.interpreter.Details.v7": {
       "data": {
-        "fileHash": "4fb1e1da4c9db44812a30b634ce4cbfbe387f571544495a620d4c5a9d0ef18424ee23b147f145519fb52891498075480e02a5e09385828fe0fe947e95f3e9d98",
+        "fileHash": "fb512c7752a8687265c554441759920adad77dbc70c2574b2ce70a37797889745e09ade08fe77a83a701912e851a064433631a357a812bdf48e2662961622628",
         "info": {
           "architecture": 3,
           "path": "/usr/bin/python3",
@@ -962,37 +985,37 @@
             "version": "3.9.6-final"
           },
           "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9",
-          "fileHash": "4fb1e1da4c9db44812a30b634ce4cbfbe387f571544495a620d4c5a9d0ef18424ee23b147f145519fb52891498075480e02a5e09385828fe0fe947e95f3e9d98",
+          "fileHash": "fb512c7752a8687265c554441759920adad77dbc70c2574b2ce70a37797889745e09ade08fe77a83a701912e851a064433631a357a812bdf48e2662961622628",
           "type": "Unknown",
           "displayName": "Python 3.9.6 64-bit"
         }
       },
-      "expiry": 1720991664803
+      "expiry": 1739157464998
     },
     "ProposeLSBanner": false,
     "InterpreterAutoSeletionRule-cachedInterpreters": {
       "architecture": 3,
-      "path": "/opt/homebrew/opt/python@3.12/bin/python3.12",
+      "path": "/opt/homebrew/opt/python@3.13/bin/python3.13",
       "version": {
         "options": {
           "loose": false,
           "includePrerelease": false
         },
         "loose": false,
-        "raw": "3.12.4-final",
+        "raw": "3.13.1-final",
         "major": 3,
-        "minor": 12,
-        "patch": 4,
+        "minor": 13,
+        "patch": 1,
         "prerelease": [
           "final"
         ],
         "build": [],
-        "version": "3.12.4-final"
+        "version": "3.13.1-final"
       },
-      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
-      "fileHash": "1926d0b30bab0cf111fce0e24c5df7e9223a0865aea26f63182ef110975147dc359e16b9fb40772352d67a22489239874af7f8958187a67acc3d6f7afb3631a6",
+      "sysPrefix": "/opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13",
+      "fileHash": "03d239be4f7ff5b0f7b436bb3d071bd84140368f9fb6c484558cc68b74fbcb110396d690783b0fadf68863149eb6ed4e6ab79797ea3d52fd4dc78f4aab554aeb",
       "type": "Unknown",
-      "displayName": "Python 3.12.4 64-bit"
+      "displayName": "Python 3.13.1 64-bit"
     },
     "/opt/homebrew/bin/python3.12.v3": {
       "data": {
@@ -1004,20 +1027,20 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.12.4-final",
+          "raw": "3.12.8-final",
           "major": 3,
           "minor": 12,
-          "patch": 4,
+          "patch": 8,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.12.4-final"
+          "version": "3.12.8-final"
         },
         "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
-        "fileHash": "fc9c047f5f70b5067b383721ba56f2efd5d837aeb1244c2ed3fa6ea0136f8dc73b32845a75791c4a7c932bde68573834564c6b47e4523a4ea946f50ab2136e57"
+        "fileHash": "c8b1039702e74dc043d885b18ccee02e20b9021471dbd6a3e156d1ce45b0611e89600ba8c519ed1b16ac51e0fb962f03074a5b460cb652e823afeb43f383a5c6"
       },
-      "expiry": 1720991325872
+      "expiry": 1739157463928
     },
     "/opt/homebrew/opt/python@3.12/bin/python3.12.v3": {
       "data": {
@@ -1029,91 +1052,67 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.12.4-final",
+          "raw": "3.12.8-final",
           "major": 3,
           "minor": 12,
-          "patch": 4,
+          "patch": 8,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.12.4-final"
+          "version": "3.12.8-final"
         },
         "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
-        "fileHash": "1926d0b30bab0cf111fce0e24c5df7e9223a0865aea26f63182ef110975147dc359e16b9fb40772352d67a22489239874af7f8958187a67acc3d6f7afb3631a6"
+        "fileHash": "7da0ca6978a2538f0e205e369567dc1c74ff0842c59289a098d6a93a91d8476b117f09228ff710b9b7ab96c6e0f673cc31872ffbca76fe1203e277199c3fa8d6"
       },
-      "expiry": 1720991325870
+      "expiry": 1739157463959
     },
     "InterpreterAutoSeletionRule-currentPath": {
       "architecture": 3,
-      "path": "/opt/homebrew/opt/python@3.12/bin/python3.12",
+      "path": "/opt/homebrew/opt/python@3.13/bin/python3.13",
       "version": {
         "options": {
           "loose": false,
           "includePrerelease": false
         },
         "loose": false,
-        "raw": "3.12.4-final",
+        "raw": "3.13.1-final",
         "major": 3,
-        "minor": 12,
-        "patch": 4,
+        "minor": 13,
+        "patch": 1,
         "prerelease": [
           "final"
         ],
         "build": [],
-        "version": "3.12.4-final"
+        "version": "3.13.1-final"
       },
-      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
-      "fileHash": "1926d0b30bab0cf111fce0e24c5df7e9223a0865aea26f63182ef110975147dc359e16b9fb40772352d67a22489239874af7f8958187a67acc3d6f7afb3631a6",
+      "sysPrefix": "/opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13",
+      "fileHash": "03d239be4f7ff5b0f7b436bb3d071bd84140368f9fb6c484558cc68b74fbcb110396d690783b0fadf68863149eb6ed4e6ab79797ea3d52fd4dc78f4aab554aeb",
       "type": "Unknown"
     },
     "/opt/homebrew/opt/python@3.12/bin/python3.12.interpreter.Details.v7": {
       "data": {
-        "fileHash": "1926d0b30bab0cf111fce0e24c5df7e9223a0865aea26f63182ef110975147dc359e16b9fb40772352d67a22489239874af7f8958187a67acc3d6f7afb3631a6",
-        "info": {
-          "architecture": 3,
-          "path": "/opt/homebrew/opt/python@3.12/bin/python3.12",
-          "version": {
-            "options": {
-              "loose": false,
-              "includePrerelease": false
-            },
-            "loose": false,
-            "raw": "3.12.4-final",
-            "major": 3,
-            "minor": 12,
-            "patch": 4,
-            "prerelease": [
-              "final"
-            ],
-            "build": [],
-            "version": "3.12.4-final"
-          },
-          "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
-          "fileHash": "1926d0b30bab0cf111fce0e24c5df7e9223a0865aea26f63182ef110975147dc359e16b9fb40772352d67a22489239874af7f8958187a67acc3d6f7afb3631a6",
-          "type": "Unknown",
-          "displayName": "Python 3.12.4 64-bit"
-        }
+        "fileHash": "7da0ca6978a2538f0e205e369567dc1c74ff0842c59289a098d6a93a91d8476b117f09228ff710b9b7ab96c6e0f673cc31872ffbca76fe1203e277199c3fa8d6"
       },
-      "expiry": 1720991325951
+      "expiry": 1739157463906
     },
     "/opt/homebrew/opt/python@3.12/bin/python3.12.interpreter.displayName.v7": {
       "data": {
-        "displayName": "Python 3.12.4 64-bit",
-        "hash": "1926d0b30bab0cf111fce0e24c5df7e9223a0865aea26f63182ef110975147dc359e16b9fb40772352d67a22489239874af7f8958187a67acc3d6f7afb3631a6-ada55820edd29e4f2f19c940bf4a4765"
+        "displayName": "Python 3.12.8 64-bit",
+        "hash": "7da0ca6978a2538f0e205e369567dc1c74ff0842c59289a098d6a93a91d8476b117f09228ff710b9b7ab96c6e0f673cc31872ffbca76fe1203e277199c3fa8d6-f134cf3066a6a734bd0e86c8b6f14667"
       },
-      "expiry": 1720991325894
+      "expiry": 1739157463954
     },
     "/opt/homebrew/bin/python3.11.interpreter.displayName.v7": {
       "data": {
-        "displayName": "Python 3.11.9 64-bit",
-        "hash": "d2b134f7ba60affd50298c86c0f9efa33263150aabe1c95b8b1e7509dcaf1441899804b03a8a9c1147a66dc476c165bef7d1945462995307a2bb57d7d849baca-2b2f90123d25f61bc27e40d8bd4d2340"
+        "displayName": "Python 3.11.11 64-bit",
+        "hash": "1f3a26154e295eabf79d15768029c2a3c20b0ea198b964d130cbab452f4352b2f3ba722503ac2a6ddbd5a18e75c464d8765ca8b010bdd4e7d772100d1a89834a-dba71c4352eb82dd967678a59f643900"
       },
-      "expiry": 1720991664775
+      "expiry": 1739157464953
     },
     "/opt/homebrew/bin/python3.11.interpreter.Details.v7": {
       "data": {
-        "fileHash": "d2b134f7ba60affd50298c86c0f9efa33263150aabe1c95b8b1e7509dcaf1441899804b03a8a9c1147a66dc476c165bef7d1945462995307a2bb57d7d849baca",
+        "fileHash": "1f3a26154e295eabf79d15768029c2a3c20b0ea198b964d130cbab452f4352b2f3ba722503ac2a6ddbd5a18e75c464d8765ca8b010bdd4e7d772100d1a89834a",
         "info": {
           "architecture": 3,
           "path": "/opt/homebrew/bin/python3.11",
@@ -1123,25 +1122,298 @@
               "includePrerelease": false
             },
             "loose": false,
-            "raw": "3.11.9-final",
+            "raw": "3.11.11-final",
             "major": 3,
             "minor": 11,
-            "patch": 9,
+            "patch": 11,
             "prerelease": [
               "final"
             ],
             "build": [],
-            "version": "3.11.9-final"
+            "version": "3.11.11-final"
           },
           "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
-          "fileHash": "d2b134f7ba60affd50298c86c0f9efa33263150aabe1c95b8b1e7509dcaf1441899804b03a8a9c1147a66dc476c165bef7d1945462995307a2bb57d7d849baca",
+          "fileHash": "1f3a26154e295eabf79d15768029c2a3c20b0ea198b964d130cbab452f4352b2f3ba722503ac2a6ddbd5a18e75c464d8765ca8b010bdd4e7d772100d1a89834a",
           "type": "Unknown",
-          "displayName": "Python 3.11.9 64-bit"
+          "displayName": "Python 3.11.11 64-bit"
         }
       },
-      "expiry": 1720991664794
+      "expiry": 1739157464977
     },
-    "pylint_DisableLinterInstallPrompt": true
+    "pylint_DisableLinterInstallPrompt": true,
+    "/opt/homebrew/bin/python3.13.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.13",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.13.1-final",
+          "major": 3,
+          "minor": 13,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.13.1-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13",
+        "fileHash": "f49664d0aad1110d4bc09dbe0441ddcaf96c3f02c429d9fd62a951d2c664a5ccc809d4bdb900a00bd49960203b85394eaab4c7a2879fec88982ee8bcd1feb555"
+      },
+      "expiry": 1739157463817
+    },
+    "/opt/homebrew/opt/python@3.13/bin/python3.13.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/opt/python@3.13/bin/python3.13",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.13.1-final",
+          "major": 3,
+          "minor": 13,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.13.1-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13",
+        "fileHash": "03d239be4f7ff5b0f7b436bb3d071bd84140368f9fb6c484558cc68b74fbcb110396d690783b0fadf68863149eb6ed4e6ab79797ea3d52fd4dc78f4aab554aeb"
+      },
+      "expiry": 1739157463926
+    },
+    "/opt/homebrew/opt/python@3.13/bin/python3.13.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.13.1 64-bit",
+        "hash": "03d239be4f7ff5b0f7b436bb3d071bd84140368f9fb6c484558cc68b74fbcb110396d690783b0fadf68863149eb6ed4e6ab79797ea3d52fd4dc78f4aab554aeb-163caee988994009c7b2db6b2f6846ab"
+      },
+      "expiry": 1739157464962
+    },
+    "/opt/homebrew/opt/python@3.13/bin/python3.13.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "03d239be4f7ff5b0f7b436bb3d071bd84140368f9fb6c484558cc68b74fbcb110396d690783b0fadf68863149eb6ed4e6ab79797ea3d52fd4dc78f4aab554aeb",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/opt/python@3.13/bin/python3.13",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.13.1-final",
+            "major": 3,
+            "minor": 13,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.13.1-final"
+          },
+          "sysPrefix": "/opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13",
+          "fileHash": "03d239be4f7ff5b0f7b436bb3d071bd84140368f9fb6c484558cc68b74fbcb110396d690783b0fadf68863149eb6ed4e6ab79797ea3d52fd4dc78f4aab554aeb",
+          "type": "Unknown",
+          "displayName": "Python 3.13.1 64-bit"
+        }
+      },
+      "expiry": 1739157464993
+    },
+    "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.13.0-final",
+          "major": 3,
+          "minor": 13,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.13.0-final"
+        },
+        "sysPrefix": "/Users/brunobarlari/Dev/projects/financeAutomation/venv",
+        "fileHash": "cf902d7124bd883da6308f9c88e497f8e487fc420d75548d4201930b1501adda7985aba36f0b9aacad07161c794255ec041c241988a7c369b5965ccf08ce71c0"
+      },
+      "expiry": 1731709328588
+    },
+    "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python3.13.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python3.13",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.13.0-final",
+          "major": 3,
+          "minor": 13,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.13.0-final"
+        },
+        "sysPrefix": "/Users/brunobarlari/Dev/projects/financeAutomation/venv",
+        "fileHash": "8e4a5c12b584aea103af5cc8e869a82995ae4b4b84750f2f3f2380dc1e83c8c286ef4a5555665ddd7ad8c064faca2b4c173ff5a2331a5790ae65a960698262a9"
+      },
+      "expiry": 1731709328586
+    },
+    "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.13.0-final",
+          "major": 3,
+          "minor": 13,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.13.0-final"
+        },
+        "sysPrefix": "/Users/brunobarlari/Dev/projects/financeAutomation/venv",
+        "fileHash": "7229e7afe3f89d0c97c3b6185106c08f2e5e3f46e09067986ccea3fcd97383159239aa722f35de200f00b755af762ea1007cffc13fdab5a522d90f2deadd7b97"
+      },
+      "expiry": 1731709328587
+    },
+    "InterpreterAutoSeletionRule-environment": {
+      "architecture": 3,
+      "path": "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.13.0-final",
+        "major": 3,
+        "minor": 13,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.13.0-final"
+      },
+      "sysPrefix": "/Users/brunobarlari/Dev/projects/financeAutomation/venv",
+      "fileHash": "cf902d7124bd883da6308f9c88e497f8e487fc420d75548d4201930b1501adda7985aba36f0b9aacad07161c794255ec041c241988a7c369b5965ccf08ce71c0",
+      "type": "VirtualEnv"
+    },
+    "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "cf902d7124bd883da6308f9c88e497f8e487fc420d75548d4201930b1501adda7985aba36f0b9aacad07161c794255ec041c241988a7c369b5965ccf08ce71c0"
+      },
+      "expiry": 1731709328567
+    },
+    "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.13.0 64-bit ('venv': venv)",
+        "hash": "7229e7afe3f89d0c97c3b6185106c08f2e5e3f46e09067986ccea3fcd97383159239aa722f35de200f00b755af762ea1007cffc13fdab5a522d90f2deadd7b97-dcc82b22a7e1429e0eabfa8e5d1d887a"
+      },
+      "expiry": 1731709328619
+    },
+    "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "7229e7afe3f89d0c97c3b6185106c08f2e5e3f46e09067986ccea3fcd97383159239aa722f35de200f00b755af762ea1007cffc13fdab5a522d90f2deadd7b97",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.13.0-final",
+            "major": 3,
+            "minor": 13,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.13.0-final"
+          },
+          "sysPrefix": "/Users/brunobarlari/Dev/projects/financeAutomation/venv",
+          "fileHash": "7229e7afe3f89d0c97c3b6185106c08f2e5e3f46e09067986ccea3fcd97383159239aa722f35de200f00b755af762ea1007cffc13fdab5a522d90f2deadd7b97",
+          "envName": "venv",
+          "type": "Venv",
+          "displayName": "Python 3.13.0 64-bit ('venv': venv)"
+        }
+      },
+      "expiry": 1731709328629
+    },
+    "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.13.0 64-bit ('venv': venv)",
+        "hash": "cf902d7124bd883da6308f9c88e497f8e487fc420d75548d4201930b1501adda7985aba36f0b9aacad07161c794255ec041c241988a7c369b5965ccf08ce71c0-4805dec87501120bc800b8942e0605ad"
+      },
+      "expiry": 1731709328648
+    },
+    "/opt/homebrew/bin/python3.12.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.8 64-bit",
+        "hash": "c8b1039702e74dc043d885b18ccee02e20b9021471dbd6a3e156d1ce45b0611e89600ba8c519ed1b16ac51e0fb962f03074a5b460cb652e823afeb43f383a5c6-196f22e2bbf7627cc1360a1518ec641e"
+      },
+      "expiry": 1739157464956
+    },
+    "/opt/homebrew/bin/python3.12.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "c8b1039702e74dc043d885b18ccee02e20b9021471dbd6a3e156d1ce45b0611e89600ba8c519ed1b16ac51e0fb962f03074a5b460cb652e823afeb43f383a5c6",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/bin/python3.12",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.8-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 8,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.8-final"
+          },
+          "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+          "fileHash": "c8b1039702e74dc043d885b18ccee02e20b9021471dbd6a3e156d1ce45b0611e89600ba8c519ed1b16ac51e0fb962f03074a5b460cb652e823afeb43f383a5c6",
+          "type": "Unknown",
+          "displayName": "Python 3.12.8 64-bit"
+        }
+      },
+      "expiry": 1739157464983
+    }
   },
   "coc-json|global": {
     "json-schema-cache": {
@@ -1347,5 +1619,211 @@
     },
     "INTERPRETERS_CACHE_v3_PipEnvService": [],
     "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/brunobarlari/.config": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:79daccdcb5739978db136b559d3e905f": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:79daccdcb5739978db136b559d3e905f": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/brunobarlari/.config": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.12/bin/python3.12",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.4-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 4,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.4-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+      "fileHash": "1926d0b30bab0cf111fce0e24c5df7e9223a0865aea26f63182ef110975147dc359e16b9fb40772352d67a22489239874af7f8958187a67acc3d6f7afb3631a6",
+      "type": "Unknown",
+      "displayName": "Python 3.12.4 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/brunobarlari/Dev/projects/financeAutomation": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:c9df8cafca8c92433af93c7e14cd26fb": [],
+    "SelectedPythonPath": "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python3",
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:c9df8cafca8c92433af93c7e14cd26fb": [
+      {
+        "architecture": 3,
+        "path": "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.13.0-final",
+          "major": 3,
+          "minor": 13,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.13.0-final"
+        },
+        "sysPrefix": "/Users/brunobarlari/Dev/projects/financeAutomation/venv",
+        "fileHash": "7229e7afe3f89d0c97c3b6185106c08f2e5e3f46e09067986ccea3fcd97383159239aa722f35de200f00b755af762ea1007cffc13fdab5a522d90f2deadd7b97",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.13.0-final",
+          "major": 3,
+          "minor": 13,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.13.0-final"
+        },
+        "sysPrefix": "/Users/brunobarlari/Dev/projects/financeAutomation/venv",
+        "fileHash": "cf902d7124bd883da6308f9c88e497f8e487fc420d75548d4201930b1501adda7985aba36f0b9aacad07161c794255ec041c241988a7c369b5965ccf08ce71c0",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python3.13",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.13.0-final",
+          "major": 3,
+          "minor": 13,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.13.0-final"
+        },
+        "sysPrefix": "/Users/brunobarlari/Dev/projects/financeAutomation/venv",
+        "fileHash": "8e4a5c12b584aea103af5cc8e869a82995ae4b4b84750f2f3f2380dc1e83c8c286ef4a5555665ddd7ad8c064faca2b4c173ff5a2331a5790ae65a960698262a9",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/Users/brunobarlari/Dev/projects/financeAutomation": {
+      "architecture": 3,
+      "path": "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.13.0-final",
+        "major": 3,
+        "minor": 13,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.13.0-final"
+      },
+      "sysPrefix": "/Users/brunobarlari/Dev/projects/financeAutomation/venv",
+      "fileHash": "cf902d7124bd883da6308f9c88e497f8e487fc420d75548d4201930b1501adda7985aba36f0b9aacad07161c794255ec041c241988a7c369b5965ccf08ce71c0",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.13.0-final",
+          "major": 3,
+          "minor": 13,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.13.0-final"
+        },
+        "sysPrefix": "/Users/brunobarlari/Dev/projects/financeAutomation/venv",
+        "fileHash": "7229e7afe3f89d0c97c3b6185106c08f2e5e3f46e09067986ccea3fcd97383159239aa722f35de200f00b755af762ea1007cffc13fdab5a522d90f2deadd7b97",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.13.0-final",
+          "major": 3,
+          "minor": 13,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.13.0-final"
+        },
+        "sysPrefix": "/Users/brunobarlari/Dev/projects/financeAutomation/venv",
+        "fileHash": "cf902d7124bd883da6308f9c88e497f8e487fc420d75548d4201930b1501adda7985aba36f0b9aacad07161c794255ec041c241988a7c369b5965ccf08ce71c0",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/brunobarlari/Dev/projects/financeAutomation/venv/bin/python3.13",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.13.0-final",
+          "major": 3,
+          "minor": 13,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.13.0-final"
+        },
+        "sysPrefix": "/Users/brunobarlari/Dev/projects/financeAutomation/venv",
+        "fileHash": "8e4a5c12b584aea103af5cc8e869a82995ae4b4b84750f2f3f2380dc1e83c8c286ef4a5555665ddd7ad8c064faca2b4c173ff5a2331a5790ae65a960698262a9",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ]
   }
 }

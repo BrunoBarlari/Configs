@@ -6,9 +6,9 @@ sbar.bar {
   notch_display_height = 41,
   padding_right = 12,
   padding_left = 12,
-  margin = -1,
-  corner_radius = 0,
-  y_offset = -1,
+  margin = 10,  -- Match Aerospace outer gaps
+  corner_radius = 12,  -- Match macOS native window corner radius
+  y_offset = 10,  -- Add top margin to match gaps
   blur_radius = 20,
   border_color = colors.border,
   border_width = 1,

@@ -92,6 +92,13 @@ M.sections = {
       },
     },
     messages = { icon = catppuccin.flamingo },
+    git = {
+      icon = catppuccin.green,
+      label = catppuccin.text,
+      pr = catppuccin.blue,
+      issue = catppuccin.red,
+      notification = catppuccin.yellow,
+    },
   },
 }
 

@@ -57,6 +57,14 @@ local icons = {
       swap = "󰁄",
       ram = "󰍛",
     },
+    git = {
+      branch = "􀙂",
+      pr = "􀤰",
+      issue = "􀌾",
+      notification = "􀍡",
+      merge = "􀦄",
+      commit = "􀈖",
+    },
   },
 }
 

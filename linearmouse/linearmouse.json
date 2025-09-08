@@ -101,6 +101,20 @@
         },
         "speed" : 0
       }
+    },
+    {
+      "if" : {
+        "device" : {
+          "category" : "mouse",
+          "productID" : "0x269",
+          "productName" : "Bruno’s Magic Mouse",
+          "serialNumber" : "00:81:2A:98:FF:65",
+          "vendorID" : "0x4c"
+        }
+      },
+      "pointer" : {
+        "acceleration" : 0.8925
+      }
     }
   ]
 }

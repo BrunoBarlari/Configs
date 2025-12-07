@@ -26,7 +26,7 @@ inner.horizontal = 10
 inner.vertical =   10
 outer.left =       10
 outer.bottom =     10
-outer.top =        61  # 51 + 10 (compensate for SketchyBar top margin)
+outer.top =        5  # 51 + 10 (compensate for SketchyBar top margin)
 outer.right =      10
 
 # ===== MAIN KEYBINDINGS =====

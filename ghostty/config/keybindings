@@ -39,4 +39,8 @@ keybind = cmd+shift+j=resize_split:down,50
 keybind = cmd+shift+k=resize_split:up,50
 keybind = cmd+shift+l=resize_split:right,50
 
+# Hyper = ⌃⌥⇧⌘ (Karabiner mapea Caps a todos los mods)
+keybind = ctrl+alt+cmd+t=toggle_quick_terminal
+
+
 # vim: set ft=conf :

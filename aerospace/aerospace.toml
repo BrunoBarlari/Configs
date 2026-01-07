@@ -2,7 +2,7 @@
 start-at-login = true
 
 after-startup-command = [
-  'exec-and-forget active_color=0xffe1e3e4 inactive_color=0xff494d64 width=5.0'
+  'exec-and-forget active_color=0xffe1e3e4 inactive_color=0xff494d64 width=5.0',
 ]
 
 # ===== LAYOUT CONFIGURATION =====
@@ -23,11 +23,11 @@ preset = 'dvorak'
 # ===== GAPS CONFIGURATION =====
 [gaps]
 inner.horizontal = 10
-inner.vertical =   10
-outer.left =       10
-outer.bottom =     10
-outer.top =        5  # 51 + 10 (compensate for SketchyBar top margin)
-outer.right =      10
+inner.vertical = 10
+outer.left = 10
+outer.bottom = 10
+outer.top = 5         # 51 + 10 (compensate for SketchyBar top margin)
+outer.right = 10
 
 # ===== MAIN KEYBINDINGS =====
 [mode.main.binding]

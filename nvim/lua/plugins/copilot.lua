@@ -1,20 +1,20 @@
 return {
   "zbirenbaum/copilot.lua",
-  opts = {
-    suggestion = {
-      enabled = not vim.g.ai_cmp,
-      auto_trigger = true,
-      hide_during_completion = vim.g.ai_cmp,
-      keymap = {
-        accept = false, -- handled by nvim-cmp / blink.cmp
-        next = "<M-]>",
-        prev = "<M-[>",
+  optional = true,
+  opts = function()
+    require("copilot.api").status = require("copilot.status")
+    require("copilot.api").filetypes = {
+      filetypes = {
+        yaml = false,
+        markdown = false,
+        help = false,
+        gitcommit = false,
+        gitrebase = false,
+        hgcommit = false,
+        svn = false,
+        cvs = false,
+        ["."] = false,
       },
-    },
-    panel = { enabled = false },
-    filetypes = {
-      markdown = true,
-      help = true,
-    },
-  },
+    }
+  end,
 }

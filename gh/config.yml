@@ -1,1 +1,14 @@
-/nix/store/wid2f3g2b4x8xr0jnzlkphm5c93i5rhv-home-manager-files/.config/gh/config.yml
+# GitHub CLI configuration
+git_protocol: https
+editor: nvim
+prompt: enabled
+pager: less
+browser:
+aliases:
+  co: pr checkout
+  pv: pr view
+  pc: pr create
+  pl: pr list
+  il: issue list
+  iv: issue view
+  ic: issue create

@@ -5,10 +5,11 @@ prompt: enabled
 pager: less
 browser:
 aliases:
-  co: pr checkout
-  pv: pr view
-  pc: pr create
-  pl: pr list
-  il: issue list
-  iv: issue view
-  ic: issue create
+    co: pr checkout
+    pv: pr view
+    pc: pr create
+    pl: pr list
+    il: issue list
+    iv: issue view
+    ic: issue create
+version: "1"
